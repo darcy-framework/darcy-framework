@@ -1,0 +1,15 @@
+[submodule "darcy-ui"]
+	path = darcy-ui
+	url = https://github.com/darcy-framework/darcy-ui.git
+[submodule "darcy-web"]
+	path = darcy-web
+	url = https://github.com/darcy-framework/darcy-web.git
+[submodule "darcy-webdriver"]
+	path = darcy-webdriver
+	url = https://github.com/darcy-framework/darcy-webdriver.git
+[submodule "darcy-salesforce"]
+	path = darcy-salesforce
+	url = https://github.com/darcy-framework/darcy-salesforce.git
+[submodule "synq"]
+	path = synq
+	url = https://github.com/darcy-framework/synq.git
