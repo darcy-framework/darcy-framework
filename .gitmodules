@@ -13,3 +13,6 @@
 [submodule "synq"]
 	path = synq
 	url = https://github.com/darcy-framework/synq.git
+[submodule "darcy-docs"]
+	path = darcy-docs
+	url = https://github.com/darcy-framework/darcy-docs.git
