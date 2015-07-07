@@ -16,4 +16,4 @@ This will download whatever commit the submodule repo (what you're looking at) h
 
 ## New to darcy?
 
-Start here! http://alechenninger.gitbooks.io/automating-applications-with-darcy/
+Start here! http://darcy-framework.gitbooks.io/automating-applications-with-darcy/
